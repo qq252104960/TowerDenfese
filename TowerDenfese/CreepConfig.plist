@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>creepId</key>
+		<integer>0</integer>
+		<key>creepName</key>
+		<string>creep1</string>
+		<key>creepCurrectName</key>
+		<string>怪物1</string>
+		<key>hp</key>
+		<integer>100</integer>
+		<key>speed</key>
+		<integer>20</integer>
+		<key>physicalDefenseLevel</key>
+		<integer>1</integer>
+		<key>magicDefenseLevel</key>
+		<integer>1</integer>
+		<key>loseOfLife</key>
+		<integer>1</integer>
+		<key>creepValue</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>creepId</key>
+		<integer>1</integer>
+		<key>creepName</key>
+		<string>creep2</string>
+		<key>creepCurrectName</key>
+		<string>怪物2</string>
+		<key>hp</key>
+		<integer>100</integer>
+		<key>speed</key>
+		<integer>10</integer>
+		<key>physicalDefenseLevel</key>
+		<integer>1</integer>
+		<key>magicDefenseLevel</key>
+		<integer>1</integer>
+		<key>loseOfLife</key>
+		<integer>1</integer>
+		<key>creepValue</key>
+		<integer>20</integer>
+	</dict>
+</array>
+</plist>

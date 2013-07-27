@@ -1,0 +1,49 @@
+//
+//  GameDefine.h
+//  TowerDenfese
+//
+//  Created by NOMIS on 6/18/13.
+//  Copyright (c) 2013 nomis. All rights reserved.
+//
+
+#ifndef TowerDenfese_GameDefine_h
+#define TowerDenfese_GameDefine_h
+
+#define GAME_LIFE 20
+
+#define GAME_SCENE_INIT 1
+#define GAME_SCENE_SELECTCHAPTER 2
+#define GAME_SCENE_PLAY 3
+
+
+
+
+
+#define GAME_LAYER_BASE 1
+#define GAME_LAYER_MAP 0
+#define GAME_LAYER_UI 2
+#define GAME_LAYER_ALERT 3
+
+#define GAME_LAYER_BASE_OBJECT 0
+#define GAME_LAYER_BASE_CREEPS 1
+#define GAME_LAYER_BASE_TOWERS 2
+#define GAME_LAYER_BASE_PROJECTILE 3
+#define GAME_LAYER_BASE_ANIMATION 4
+#define GAME_LAYER_BASE_TIP 5
+
+
+
+#define GAME_TAG_LAYER_WIN 1000
+#define GAME_TAG_LAYER_FAILED 1001
+#define GAME_TAG_LAYER_OBJECT 1002
+#define GAME_TAG_LAYER_PROJECTILE 1003
+#define GAME_TAG_LAYER_ANIMATION 1004
+#define GAME_TAG_LAYER_TIP 1005
+#define GAME_TAG_LAYER_UI 1006
+#define GAME_TAG_LAYER_CONTROLLMENU 1007
+#define GAME_TAG_LAYER_BASE 1008
+#define GAME_TAG_LAYER_MAP 1009
+#define GAME_TAG_SPRITE_MONEY 1010
+#define GAME_TAG_SPRITE_WAVE 1011
+#define GAME_TAG_COMPONENT_CREATE_TOWER 1012
+#endif
